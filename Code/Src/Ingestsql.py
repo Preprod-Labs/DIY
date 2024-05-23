@@ -34,7 +34,7 @@
 
 # Library
 import pandas as pd  # Data ingestion and manipulation
-import numpy as np   # Data manipulation
+import numpy as np   # Numerical computation
 import mysql.connector  # MYSQL connector
 
 # MySQL Connection parameters 

@@ -27,8 +27,8 @@
         #Pandas 2.2.1
 
 # Library
-import pandas as pd  # Data ingestion and manipulation
-import numpy as np   # Data manipulation
+import pandas as pd  # Library for Data ingestion and manipulation
+import numpy as np   # Library for Numerical computation
 
 #path of SQL and Mongo csv ingested files (processed folder)
 path=input( "enter the path of sql and mongo data files: ")
